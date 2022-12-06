@@ -1,0 +1,13 @@
+.csw-btn-button {
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 35px;
+    color: #070606 !important;
+    border-radius: 5px;
+    background: #dd4444;
+    border: 1px solid #e02929;
+    transition: 0.4s;
+  }
+  .csw-btn-button:hover {
+    background: #292929;
+  }
